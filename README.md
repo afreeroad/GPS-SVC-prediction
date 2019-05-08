@@ -3,7 +3,7 @@
 
 This notebook utilizes the 'individual.dta' datset from the Global Preferences Survey, found here: https://www.briq-institute.org/global-preferences/downloads
 
-The dataset has been engineered and appended to utilizing the 'WBData' API from the World Bank. Columns identifying and corresponding to the geographical 'region' as well as the relative 'income' level of each represented country are added to the dataset. 
+The dataset has been engineered and appended to utilizing the 'WBData' API from the World Bank (see **'adding_wbdata_columns.py'** in this repository). Columns identifying and corresponding to the geographical 'region' as well as the relative 'income' level of each represented country are added to the dataset. 
 
 As evidenced in the title, the model developed here utilizes the Support Vector Classification (SVC) model. Details can be found here: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
 
