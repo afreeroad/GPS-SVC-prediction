@@ -1,7 +1,7 @@
 # GPS-SVC-prediction
 ### Predicting the target country, from a set of economic preferences. 
 
-This notebook utilizes the 'individual.dta' datset from the Global Preferences Survey, found here: https://www.briq-institute.org/global-preferences/downloads
+This **'SVC_model' notebook** utilizes the 'individual.dta' datset from the Global Preferences Survey, found here: https://www.briq-institute.org/global-preferences/downloads
 
 The dataset has been engineered and appended to utilizing the 'WBData' API from the World Bank (see **'adding_wbdata_columns.py'** in this repository). Columns identifying and corresponding to the geographical 'region' as well as the relative 'income' level of each represented country are added to the dataset. 
 
