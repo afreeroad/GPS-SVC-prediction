@@ -1,5 +1,5 @@
 # GPS-SVC-prediction
-Predicting the target country, from a set of economic preferences. 
+### Predicting the target country, from a set of economic preferences. 
 
 This notebook utilizes the 'individual.dta' datset from the Global Preferences Survey, found here: https://www.briq-institute.org/global-preferences/downloads
 
